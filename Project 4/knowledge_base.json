@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm good, How about you?"
+    },
+    {
+      "question": "I'm fine ",
+      "answer": "How can I help You?"
+    },
+    {
+      "question": "I need help regarding some issues",
+      "answer": "Sure I will, What type of help you need?"
+    }
+  ]
+}
