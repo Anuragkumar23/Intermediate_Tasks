@@ -38,6 +38,11 @@ You can customize the behavior of the chat bot by modifying the knowledge base J
 
 - Python 3.x
 - `difflib` library (built-in)
+  
+## Output Sample
+
+![image](https://github.com/Anuragkumar23/Intermediate_Tasks/assets/72218283/7c3edae2-756d-492e-bdb2-bede8f1f89e4)
+
 
 ## License
 
