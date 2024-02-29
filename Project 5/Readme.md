@@ -2,7 +2,7 @@
 
 Jaitra is a Python-based personal assistant developed by Anurag Kumar, designed to assist users with various tasks using voice commands. With Jaitra, you can perform actions like retrieving information from Wikipedia, opening websites, setting reminders, sending emails, and more, all through simple voice commands.
 
-![Jaitra Personal Assistant](assets/jaitra_banner.jpg)
+
 
 ## Features
 
