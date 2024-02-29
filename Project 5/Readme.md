@@ -22,18 +22,14 @@ Jaitra is a Python-based personal assistant developed by Anurag Kumar, designed 
    git clone https://github.com/Anuragkumar23/jaitra-personal-assistant.git
    
 
-
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
 
-
 3. **Run Jaitra:**
    ```bash
-   Copy code
    python jaitra.py
    
-
 
 ## Usage
 
